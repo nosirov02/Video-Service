@@ -1,6 +1,6 @@
 # Video-Service Project on Go Lang
 
-Technologies: GIN 
+Technologies: GIN + JWT + GORM
 
 
 ![image](https://user-images.githubusercontent.com/78780925/182465456-e47d667e-4e6e-485c-a61c-b15b972f4953.png)
